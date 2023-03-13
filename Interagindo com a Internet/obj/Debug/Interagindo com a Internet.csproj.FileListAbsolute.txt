@@ -1,0 +1,11 @@
+E:\projetos pessoais\exercícios back-end\C#\Interagindo com a Internet\bin\Debug\Interagindo com a Internet.exe.config
+E:\projetos pessoais\exercícios back-end\C#\Interagindo com a Internet\bin\Debug\Interagindo com a Internet.exe
+E:\projetos pessoais\exercícios back-end\C#\Interagindo com a Internet\bin\Debug\Interagindo com a Internet.pdb
+E:\projetos pessoais\exercícios back-end\C#\Interagindo com a Internet\obj\Debug\Interagindo com a Internet.csproj.AssemblyReference.cache
+E:\projetos pessoais\exercícios back-end\C#\Interagindo com a Internet\obj\Debug\Interagindo com a Internet.csproj.SuggestedBindingRedirects.cache
+E:\projetos pessoais\exercícios back-end\C#\Interagindo com a Internet\obj\Debug\Interagindo com a Internet.csproj.CoreCompileInputs.cache
+E:\projetos pessoais\exercícios back-end\C#\Interagindo com a Internet\obj\Debug\Interagindo com a Internet.exe
+E:\projetos pessoais\exercícios back-end\C#\Interagindo com a Internet\obj\Debug\Interagindo com a Internet.pdb
+E:\projetos pessoais\exercícios back-end\C#\Interagindo com a Internet\bin\Debug\Newtonsoft.Json.dll
+E:\projetos pessoais\exercícios back-end\C#\Interagindo com a Internet\bin\Debug\Newtonsoft.Json.xml
+E:\projetos pessoais\exercícios back-end\C#\Interagindo com a Internet\obj\Debug\Interagindo com a Internet.csproj.CopyComplete
